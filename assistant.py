@@ -29,8 +29,8 @@ while True:
     except:
         #wikipedia
         print(wikipedia.summary(inputvalue))
-        #a = wikipedia.summary(inputvalue)
-        #language = 'en'
-        #myobj = gTTS(text=a, lang=language, slow=False)
-        #myobj.save("welcome1.mp3")
-        #os.system("mpg321 welcome1.mp3")
+        a = wikipedia.summary(inputvalue)
+        language = 'en'
+        myobj = gTTS(text=a, lang=language, slow=False)
+        myobj.save("welcome1.mp3")
+        os.system("mpg321 welcome1.mp3")
