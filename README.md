@@ -3,7 +3,7 @@ This is the personal assistant for the sutdents to answer their basic queries li
 and to know about the places and to know about like black hole , DNA , ATOM and many more things related to the studies 
 
 WOLFRAMEALFA:
-  IN this project I used the api of wolframealfa this api is for the quetions related to maths, chemisty , physics and many more
+  In this project I used the api of wolframealfa this api is for the questions related to maths, chemisty , physics and many more
   
 WIKIPEDIA:
     I used the package wikipedia to make my assistant answer strongly
